@@ -1,0 +1,51 @@
+.contato {
+    background: #e6d8ee;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.contato h3 {
+    text-align: center;
+    color: #6a1b9a;
+    margin-bottom: 15px;
+}
+
+.contato a {
+    color: #8a2caa;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.contato a:hover {
+    color: #5e0f7f;
+    text-decoration: underline;
+}
+
+.info-contato {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.info-contato div {
+    flex: 1 1 300px;
+    background: #e6d8ee;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.telefone {
+    background: yellow;
+    font-weight: bold;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+

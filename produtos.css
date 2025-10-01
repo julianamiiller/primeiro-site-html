@@ -12,7 +12,6 @@ body {
     padding: 20px;
 }
 
-/* ===== HEADER ===== */
 header {
     text-align: center;
     margin-bottom: 20px;
@@ -40,7 +39,6 @@ nav a:hover {
     color: #5e0f7f;
 }
 
-/* ===== PRODUTOS ===== */
 .produtos {
     padding: 20px;
     background-color: #F9F9F9;
@@ -59,17 +57,17 @@ nav a:hover {
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap;         /* permite quebrar linha */
-    max-width: 900px;        /* largura máxima para caber 4 produtos */
-    margin: 0 auto;          /* centraliza a lista */
+    flex-wrap: wrap;        
+    max-width: 900px;        
+    margin: 0 auto;          
 }
 
 .produto {
     background-color: #fff;
-    border: 2px solid #800080;
+    border: 1px solid #800080;
     border-radius: 10px;
     padding: 15px;
-    width: 200px;            /* largura fixa (4 por linha) */
+    width: 200px;         
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: transform 0.2s;
@@ -77,7 +75,7 @@ nav a:hover {
 
 .produto img {
     width: 100%;
-    border-radius: 4px;      /* borda suave da imagem */
+    border-radius: 4px; 
 }
 
 .produto h3 {
@@ -96,5 +94,5 @@ nav a:hover {
 }
 
 .produto:hover {
-    transform: scale(1.05);  /* efeito de zoom ao passar o mouse */
+    transform: scale(1.05); 
 }
