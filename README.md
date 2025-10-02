@@ -23,7 +23,7 @@ O site contém **4 páginas principais**, todas interligadas por um menu de nave
 
 Além disso, há:
 
-* Pasta `imagens/` → Contendo fotos das flores, banner e fundo.
+* Pasta `imagens/galeria` → Contendo fotos das flores, banner e fundo.
 * Arquivo `style.css` → Responsável pela estilização do site.
 
 ## 📸 Demonstração
