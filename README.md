@@ -17,8 +17,8 @@ O orquidário existe há mais de **10 anos**, cultivando flores com carinho e de
 O site contém **4 páginas principais**, todas interligadas por um menu de navegação:
 
 * `index.html` → Página inicial com destaques e boas-vindas.
-* `sobre.html` → História e informações sobre o Orquidário.
 * `produtos.html` → Lista de orquídeas e variedades disponíveis.
+* `sobre.html` → História e informações sobre o Orquidário.
 * `contato.html` → Formas de contato, endereço e links para redes sociais.
 
 Além disso, há:
