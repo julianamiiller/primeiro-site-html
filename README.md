@@ -7,8 +7,8 @@ O orquidário existe há mais de **10 anos**, cultivando flores com carinho e de
 
 ## 🛠️ Tecnologias utilizadas
 
-* **HTML5**
-* **CSS3** (para estilização)
+* **HTML**
+* **CSS** (para estilização)
 
 > O projeto não utiliza frameworks ou bibliotecas externas além do Google Fonts.
 
