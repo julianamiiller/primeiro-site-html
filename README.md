@@ -35,7 +35,7 @@ https://siteorquidariooliveira.netlify.app
 Clone este repositório e abra o arquivo `index.html` no navegador:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/seu-repositorio.git
+git clone https://github.com/julianamiiller/primeiro-site-html
 ```
 
 ## 👩‍💻 Autor
