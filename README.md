@@ -28,7 +28,7 @@ Além disso, há:
 
 ## 📸 Demonstração
 
-https://siteorquidariooliveira.netlify.app
+https://orquidariooliveirasite.netlify.app
 
 ## 🚀 Como acessar
 
